@@ -1,0 +1,44 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    color: black;
+    
+    
+}
+main{
+    background-color: rgb(39, 37, 37);
+}
+header{
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+pr-titulli{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+header h1{
+    font-size: 4em;
+    padding:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('header3.jpg');
+    background-size: cover;
+    margin: 15px;
+}
+.pr-grid{
+    border:10px solid black;
+    padding: 10px black;
+    margin: 0;
+    
+}
+.pr-titulliperdurres{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
