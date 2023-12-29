@@ -119,12 +119,7 @@
 
 .img-card{
     height: 200px !important;
-    
 
-}
-
-.img-card2{
-    height: 250px !important;
 }
 
 .card-title{
@@ -154,34 +149,4 @@
 
 .btn-product-ctg:hover{
     color: rgb(167, 117, 102);
-}
-
-.btn-prev , .btn-bext{
-    position: relative;
-}
-
-.button-left{
-    position: absolute;
-    left: 130px;
-    padding: 10px 12px;
-    color: black;
-    border-radius: 30px;
-    font-size: 20px;
-    background-color: rgb(151, 63, 36);
-}
-.button-right{
-    position: absolute;
-    right: 130px;
-    padding: 10px 12px;
-    color: black;
-    border-radius: 30px;
-    font-size: 20px;
-    background-color: rgb(151, 63, 36);
-}
-
-.button-right:hover{
-    color:white;
-}
-.button-left:hover{
-    color: white;
 }
